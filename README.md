@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/George-P-1/Profile_README_draft/assets/100698568/c809bc3c-06c1-4f59-aca7-b43bb3c5a6b7">
+  <img align="center" src="https://github.com/George-P-1/George-P-1/assets/100698568/5ee52e11-2c0a-4ac7-a5ce-bdaa09a59479">
 </p>
 
 <p>
