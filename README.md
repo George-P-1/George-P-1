@@ -41,7 +41,9 @@
 <!-- ## 🧠 Skills & Tools -->
 
 **Languages:** Python, C, C++, Kotlin, C#
-**Frameworks & Tools:** PyTorch, OpenCV, WandB, MATLAB, Arduino, STM32, VS Code, Git, Android Studio, KiCAD  
+
+**Frameworks & Tools:** PyTorch, OpenCV, WandB, MATLAB, Arduino, STM32, VS Code, Git, Android Studio, KiCAD
+
 **Concepts:** Embedded Systems, Signal Processing, Neural Networks, Control Theory
 
 <!--tech stack icons-->
