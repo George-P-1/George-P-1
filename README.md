@@ -5,7 +5,7 @@
 **`Engineer`**
 
 🎓🤖 Recent graduate in Automatic Control and Robotics from Poznan University of Technology (CGPA: 4.65/5.0)  
-📍 Currently based in Poznań, Poland
+📍 Currently based in Poznań, Poland  
 💡 Passionate about all things IT and engineering.  
 🌱Currently learning more about AI, DevOps tools and Android Development.
 
